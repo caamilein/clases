@@ -1,0 +1,33 @@
+p{
+    color: #5F9EA0;
+    font-family: sans-serif;
+    font-size:20px;
+}
+div p{
+    color:#FFC4FF;
+    font-size: 15px;
+    border-radius: 100px;}
+div{  border-color: blue;
+
+}
+.class_test{
+    color:rgb(010,456,340);
+    font-size: small;
+}
+#id_test{
+    color: yellow;
+    font-size: medium
+}
+.hover_test:hover {
+    font-size: 50px;
+    color:green;
+}
+a:visited{
+ background:black;
+ color:#00FF00;
+}
+body{
+    background-image: url(http://media.mnn.com/assets/images/2015/12/winter-solstice-facts.jpg.653x0_q80_crop-smart.jpg);
+   
+}
+    
